@@ -3,7 +3,6 @@ kind: Deployment
 
 metadata:
   name: nginx-deployment
-  namespace: learning
 
 spec:
   replicas: 5
